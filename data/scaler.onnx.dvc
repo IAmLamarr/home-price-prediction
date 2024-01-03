@@ -1,0 +1,5 @@
+outs:
+- md5: 4ce3a1131cb6580e276f9521867027c4
+  size: 1514
+  hash: md5
+  path: scaler.onnx
