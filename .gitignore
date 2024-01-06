@@ -177,3 +177,7 @@ pyrightconfig.json
 
 data/*.csv
 data/*.onnx
+data/*.txt
+data/outputs
+mlruns
+mlartifacts

@@ -1,0 +1,5 @@
+outs:
+- md5: 844fe02045097683bfb39edd7e872a1e
+  size: 25
+  hash: md5
+  path: metrics.txt

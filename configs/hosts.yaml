@@ -1,0 +1,2 @@
+tensorboard: http://127.0.1.2:8080
+mlflow: http://127.0.0.1:8080
